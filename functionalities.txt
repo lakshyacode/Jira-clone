@@ -1,0 +1,9 @@
+1.Can priorities the tickets acc to their color.(filter properties available)
+2.unique id for every ticket
+3.lock feature for the security of the task
+
+Difficulties:
+occurance of duplicacy while filtering acc to colors.
+1.responsiveness
+
+ 
